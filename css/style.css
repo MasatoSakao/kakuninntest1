@@ -2,17 +2,19 @@
   display: flex;
   position: relative;
 }
-.header1 {
+.header1 { 
   width: 50%;
-  position: absolute;
-  display: inline-block;
 }
 .header2 {
   position: absolute;
   color: white;
   font-size: 80px;
-  padding: 200px 0 0 100px;
+  top: 200px;
+  left: 200px;
 }
-.blog2 {
-width: 200px;
+.about {
+  text-align: center;
+}
+.Blog2 {
+width: 50%;
 }
